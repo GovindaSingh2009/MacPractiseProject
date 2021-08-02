@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
        {/* <img src={logo} className="App-logo" alt="logo" />*/}
         <h1>
-          My first project
+          My first project.
         </h1>
         <ClickButton />
       </header>
